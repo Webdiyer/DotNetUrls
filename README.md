@@ -6,3 +6,4 @@
 * [博客园ASP.NET MVC技术专题](http://kb.cnblogs.com/zt/mvc/)
 * [菜鸟教程-ASP.NET MVC 教程](http://www.runoob.com/aspnet/mvc-intro.html)
 * [.Net Fiddle](https://dotnetfiddle.net/)
+* [.NET API 浏览器](https://docs.microsoft.com/zh-cn/dotnet/api/)
